@@ -1,3 +1,9 @@
+# LG_CNS_7_Front
+
+LG CNS AM Inspire camp 7기 Frontend 교육
+
+## `lg-front-app`
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
